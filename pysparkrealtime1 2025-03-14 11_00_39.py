@@ -1,4 +1,4 @@
-# Databricks notebook source
+# Using Autoloader for continuous processing of files from DBFS.
 # MAGIC %md
 # MAGIC # Incremental Data Load in Databricks
 # MAGIC # Source files added in github repo
